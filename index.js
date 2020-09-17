@@ -132,3 +132,5 @@ const animals = ['Shaun', 'Add', 'Even', 'Rylee', 'Emma', 'Angie'];
 animals.forEach( animal => {
   console.log(animal)
 });
+
+//TODO add map and weakmap array loopiing methods
